@@ -38,3 +38,22 @@ Fundamentally it should behave as any human would utilizing a web browser - it
 should request data from the server as often as the web client javascript does,
 it should interpret the data utilizing the rules above, and finally it should
 make a decision on how to nominate and bid.
+
+# USER STORIES
+
+- As a stakeholder in the financial well-being of ottoneu, I want auction
+drafts to be less intimidating and time-intensive to start and participate in so
+that ottoneu Fantasy Sports can have more users and make more money.
+- As an owner of an ottoneu team, I want auction drafts to not require my
+presence so that they are easier to schedule and finish.
+- As an owner of an ottoneu team, I want auction draft AI to be sophisticated
+enough to reflect my team-building goals so that my ottoneu team is not generic
+just because I used the auction bot.
+- As an owner of an ottoneu team, I want auction draft AI to build me a team
+that can be competitive given the appropriate in-season management, so that I
+can confidently use the auction draft AI and still compete.
+- As a stakeholder in the performance of ottoneu servers, I want the auction
+draft AI to be speedy and performant, so that users are confident using it and
+it doesn't cause site downtime / site slowness.
+
+More to come...
