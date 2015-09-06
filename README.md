@@ -55,5 +55,8 @@ can confidently use the auction draft AI and still compete.
 - As a stakeholder in the performance of ottoneu servers, I want the auction
 draft AI to be speedy and performant, so that users are confident using it and
 it doesn't cause site downtime / site slowness.
+- As an owner of multiple ottoneu teams in a single sport, I want to be able to
+set different AI auction strategies for each of my teams, so that I can utilize
+different strategies for different opponents.
 
 More to come...
