@@ -58,5 +58,8 @@ it doesn't cause site downtime / site slowness.
 - As an owner of multiple ottoneu teams in a single sport, I want to be able to
 set different AI auction strategies for each of my teams, so that I can utilize
 different strategies for different opponents.
+- As an owner of an ottoneu team, I want to have flexibility with my computer
+while utilizing this AI, meaning that the AI should not require anything of any
+of my personal computing devices.
 
 More to come...
